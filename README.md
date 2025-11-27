@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Anshit 👋  
 
-<!--
-**ANSHIT175/ANSHIT175** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🧑‍💻 IT Student at GTBIT  
+- 💡 Learning Web Development, C++, and DSA  
+- 🔍 Exploring Open Source and real-world coding  
+- 🎯 Goal: Build strong projects and improve as a developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** C, C++, Python  
+- **Tools:** Git, GitHub  
+- **Focus Areas:** Problem Solving, Web Development, Open Source  
+
+---
+
+## 📌 Projects
+### 🔹 cpp-basic-programs
+A collection of simple C++ programs for beginners.  
+👉 *More projects coming soon!*
+
+---
+
+## 📫 Contact Me
+- Email: your-email@example.com  
+- LinkedIn: (add your link here)
+
+---
+
+⭐ *Thanks for visiting my profile!*
