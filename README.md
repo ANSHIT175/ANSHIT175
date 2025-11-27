@@ -23,8 +23,8 @@ A collection of simple C++ programs for beginners.
 ---
 
 ## 📫 Contact Me
-- Email: your-email@example.com  
-- LinkedIn: (add your link here)
+- Email: pandeyanshit82@gmail.com
+- LinkedIn: https://www.linkedin.com/in/anshit-pandey-bb2665376?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
 
