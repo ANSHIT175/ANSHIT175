@@ -5,11 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=B.Tech+IT+%40+GGSIPU;C%2B%2B+%26+DSA+%7C+200%2B+problems+solved;GSSoC+2026+Contributor+(AI%2FAgents+Track);Hackathon+Winner+%40+TRYST%2C+IIT+Delhi;Convolve+4.0+Semi-Finalist" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ANSHIT175&label=Profile%20Views&color=00D9FF&style=flat" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/ANSHIT175?label=Followers&style=flat&color=00D9FF" alt="followers"/>
-</p>
-
 ---
 
 ### 🧭 About Me
@@ -80,22 +75,6 @@ const anshit = {
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANSHIT175&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ANSHIT175/ANSHIT175/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ANSHIT175&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
